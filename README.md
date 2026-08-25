@@ -196,10 +196,12 @@ const farrel = {
 
 <br/>
 
-![GitHub pinned](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Farrel-Najwan&repo=desktop-tutorial&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF)
-![GitHub pinned](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Farrel-Najwan&repo=Muhammad-Farrel-Najwan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF)
+<!-- Pinned cards removed — github-readme-stats pin endpoint currently returns 503/402 and repo `desktop-tutorial` doesn't exist on this account yet.
+     Re-enable after you push real repos: 
+     ![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Farrel-Najwan&repo=YOUR_REPO&theme=tokyonight) -->
+<a href="https://github.com/Muhammad-Farrel-Najwan?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📌_Pinned_Repos-Coming_Soon-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" /></a>
 
-*👆 These pinned cards will auto-update to your real repos — just replace `desktop-tutorial` with your project name*
+*👆 Pin 2 repo terbaikmu via GitHub web: Profile → Customize your pins → pilih repo. Card otomatis di atas akan aku aktifkan lagi setelah kamu punya repo public.*
 
 </div>
 
