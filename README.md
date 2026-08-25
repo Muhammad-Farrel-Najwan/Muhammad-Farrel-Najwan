@@ -89,8 +89,9 @@ const farrel = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Farrel-Najwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_radius=15&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Farrel-Najwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=15&langs_count=8" width="41%" />
+<!-- github-readme-stats 503 intermittent — replaced with summary-cards (verified 200 OK) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="35%" />
 
 <br/>
 
@@ -260,10 +261,8 @@ const farrel = {
 
 <div align="center">
 
-### ⚡ Activity Pulse
+### ⚡ Activity Pulse — Deep Dive
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Farrel-Najwan&theme=tokyonight&utcOffset=7" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="49%" />
 
