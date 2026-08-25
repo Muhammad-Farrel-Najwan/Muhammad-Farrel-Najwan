@@ -22,7 +22,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERZW/giphy.gif" width="30"> About Me
 
 ```javascript
@@ -51,7 +50,6 @@ const farrel = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TECH STACK -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqfas6au7s6eb96a064600982182b&rid=giphy.gif" width="28"> Tech Stack — Arsenal
 
 <div align="center">
@@ -84,12 +82,10 @@ const farrel = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GITHUB ANALYTICS -->
 ## <img src="https://media.giphy.com/media/QaMcXSekUWx7aWKeyB/giphy.gif" width="30"> GitHub Analytics — Neon Stats
 
 <div align="center">
 
-<!-- github-readme-stats 503 intermittent — replaced with summary-cards (verified 200 OK) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="35%" />
 
@@ -99,23 +95,17 @@ const farrel = {
 
 <br/>
 
-<!-- Activity Graph & Trophy commented — previous endpoints returned 402/503 (payment required / unstable). Replace with summary cards below which are verified 200 OK -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Farrel-Najwan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=00FF88&area=true&area_color=00FFFF" width="98%" /> -->
-
 </div>
 
 <div align="center">
 
 ### 🏆 GitHub Trophies
-<!-- Trophy service currently returns 402 Payment Required. Hidden until service recovers. Alternative: use summary cards below -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Farrel-Najwan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=8&column=7" width="100%" /> -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="100%" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- FEATURED PROJECTS -->
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Featured Projects — Lab
 
 <div align="center">
@@ -197,9 +187,6 @@ const farrel = {
 
 <br/>
 
-<!-- Pinned cards removed — github-readme-stats pin endpoint currently returns 503/402 and repo `desktop-tutorial` doesn't exist on this account yet.
-     Re-enable after you push real repos: 
-     ![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Farrel-Najwan&repo=YOUR_REPO&theme=tokyonight) -->
 <a href="https://github.com/Muhammad-Farrel-Najwan?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📌_Pinned_Repos-Coming_Soon-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" /></a>
 
 *👆 Pin 2 repo terbaikmu via GitHub web: Profile → Customize your pins → pilih repo. Card otomatis di atas akan aku aktifkan lagi setelah kamu punya repo public.*
@@ -208,7 +195,6 @@ const farrel = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- CONNECT -->
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapRdah/giphy.gif" width="30"> Connect With Me — Signal Link
 
 <div align="center">
@@ -243,7 +229,6 @@ const farrel = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- SNAKE ANIMATION -->
 ## <img src="https://media.giphy.com/media/cN4QgQ8tTBhH2DA7FJ/giphy.gif" width="28"> Contribution Graph — Snake Mode
 
 <div align="center">
@@ -270,7 +255,6 @@ const farrel = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- FOOTER -->
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Muhammad-Farrel-Najwan&label=Thanks+for+visiting&color=00FFFF&style=flat-square" />
@@ -286,13 +270,3 @@ const farrel = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=NEON%20PROTOCOL%20v1.0&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Built%20with%20%E2%98%85%20by%20Muhammad%20Farrel%20Najwan&descAlignY=85&descAlign=50" width="100%"/>
-
-<!--
-  Cyberpunk Neon Profile v1.0 — Muhammad Farrel Najwan
-  Theme: tokyonight | Colors: #00FFFF (cyan) #FF00FF (magenta) #00FF88 (green) #0D1117 (bg)
-  Tips:
-  - Replace placeholder projects with real repo names in pinned cards (line ~120)
-  - To get Discord direct link: replace https://discord.com with https://discord.com/users/YOUR_NUMERIC_ID (get ID via Discord Developer Mode)
-  - Stats are auto-updating — no manual edit needed
-  - Snake needs GitHub Action enabled (see .github/workflows/snake.yml)
--->
