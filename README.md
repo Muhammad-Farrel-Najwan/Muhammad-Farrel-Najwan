@@ -94,19 +94,21 @@ const farrel = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Farrel-Najwan&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Muhammad-Farrel-Najwan&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Farrel-Najwan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=00FF88&area=true&area_color=00FFFF" width="98%" />
+<!-- Activity Graph & Trophy commented — previous endpoints returned 402/503 (payment required / unstable). Replace with summary cards below which are verified 200 OK -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Farrel-Najwan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=00FF88&area=true&area_color=00FFFF" width="98%" /> -->
 
 </div>
 
 <div align="center">
 
 ### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Farrel-Najwan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=8&column=7" width="100%" />
+<!-- Trophy service currently returns 402 Payment Required. Hidden until service recovers. Alternative: use summary cards below -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Farrel-Najwan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=8&column=7" width="100%" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="100%" />
 
 </div>
 
@@ -258,10 +260,10 @@ const farrel = {
 
 ### ⚡ Activity Pulse
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="100%" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Farrel-Najwan&theme=tokyonight&utcOffset=7" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Farrel-Najwan&theme=tokyonight" width="49%" />
 
 </div>
 
